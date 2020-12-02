@@ -9,4 +9,3 @@
 
 
 
-#### Available for remote opportunities 
