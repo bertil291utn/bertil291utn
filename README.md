@@ -4,5 +4,7 @@
 
 
 
-<h3 align="center">  Developer, entrepreneur &  music enthusiast </h3>
+<h3 align="center">  Developer (<a href="https://github.com/GarajesoftDevTeam">@GarageTeam</a>), entrepreneur (@albazomusic) &  music enthusiast(<a href="https://www.instagram.com/btandayamo">@btandayamo</a>) </h3>
 
+[![Twitter: BertilT](https://img.shields.io/twitter/follow/btandayamo?style=social)](https://twitter.com/btandayamo)
+[![GitHub Bertil](https://img.shields.io/github/followers/bertil291utn?label=follow&style=social)](https://github.com/bertil291utn)
