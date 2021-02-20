@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">  Developer (<a href="https://github.com/GarajesoftDevTeam">@GarageTeam</a>), entrepreneur (@albazomusic) &  music enthusiast(<a href="https://www.instagram.com/btandayamo">@btandayamo</a>) </h3>
+<h3 align="center">  Developer (<a href="https://github.com/GarajesoftDevTeam">@GarageTeam</a>), Co-founder (@capitalmusic) &  music enthusiast(<a href="https://www.instagram.com/btandayamo">@btandayamo</a>) </h3>
 
 
 
