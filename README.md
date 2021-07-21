@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">  Developer (<a href="https://github.com/GarajesoftDevTeam">@GarageTeam</a>), Co-founder (@VolkFire music) &  music enthusiast(<a href="https://open.spotify.com/user/calamijo?si=QZ0tujTfQ9Ss2u_iIT_Vdw">@btandayamo</a>) </h3>
+<h3 align="center">  Developer (<a href="https://github.com/GarajesoftDevTeam">@GarageTeam</a>), Co-founder (<a href="https://www.volkfire.com/">@VolkFire</a> music) &  music enthusiast(<a href="https://open.spotify.com/user/calamijo?si=QZ0tujTfQ9Ss2u_iIT_Vdw">@btandayamo</a>) </h3>
 
 
 
