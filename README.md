@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">  Developer & Co-founder (<a href="https://www.distrofank.xyz/">@DistroFank music</a>)
+<h3 align="center">  Developer & Co-founder (<a href="https://nft-landing-app.vercel.app/">@DistroFank music</a>)
 
 
 
